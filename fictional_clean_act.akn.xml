@@ -1,0 +1,61 @@
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0">
+
+  <!-- This is a fictional example for learning puposes -->
+  <!-- 'directive' represents a binding EU legislative instrument -->
+  <directive name="DirectiveOnIndustrialEmissions">
+
+    <meta>
+      <identification source="#europarl">
+        <FRBRWork>
+          <!-- Unique reference to this version of the directive -->
+          <FRBRthis value="/eu/directive/industrial-emissions/2025/07/27"/>
+          
+          <!-- General URI for the directive -->
+          <FRBRuri value="/eu/directive/industrial-emissions"/>
+
+          <!-- Date of generation -->
+          <FRBRdate date="2024-06-27" name="generation"/>
+
+          <!-- Author of the directive: European Parliament and Council -->
+          <FRBRauthor href="#europarl"/>
+          
+          <!-- Jurisdiction: European Union -->
+          <FRBRcountry value="eu"/>
+        </FRBRWork>
+      </identification>
+
+      <!-- Publication in the Official Journal of the EU -->
+      <publication date="24-06-27" name="official-journal-eu"/>
+
+    </meta>
+
+    <preface>
+      <p>This Directive may be cited as the “Directive on Industrial Emissions”.</p>
+    </preface>
+
+    <body>
+
+      <article eId="art1">
+        <num>Article 1</num>
+        <content>
+          <p>
+            Member States shall ensure that emissions of harmful gases from industrial installations 
+            do not exceed the threshold of 100 units per day.
+          </p>
+        </content>
+      </article>
+
+      <article eId="art2">
+        <num>Article 2</num>
+        <content>
+          <p>
+            Operators of installations found in breach of Article 1 shall be subject to administrative fines 
+            not exceeding EUR 10,000 per infringement, as determined by the competent national authorities.
+          </p>
+        </content>
+      </article>
+
+    </body>
+  </directive>
+
+</akomaNtoso>
