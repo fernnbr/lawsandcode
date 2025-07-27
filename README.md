@@ -6,7 +6,7 @@ Welcome to Laws and Code, a repository that brings together fictional and real e
 02) Real legal documents: Structured versions of actual legislative or regulatory texts encoded in Akoma Ntoso or LexML
 03) Multiple formats: Mainly Akoma Ntoso XML, but may also include other related standards such as LexML, LegalRuleML, or basic XML for structured data projects
   
-[Hey, oooh. It feels so legal] **What's Akoman Ntoso?**
+[Hey, oooh. It feels so legal] **What's Akoma Ntoso?**
 
 Akoma Ntoso [meaning linked hearts in Akan] is an open XML standard developed by the UN’s Department of Economic and Social Affairs. It is used to model parliamentary, legislative, and judiciary documents in a structured and machine-readable way.
 
