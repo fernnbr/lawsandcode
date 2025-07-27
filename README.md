@@ -4,7 +4,7 @@ Welcome to Laws and Code, a repository that brings together fictional and real e
 
 01) Fictional laws: Simple, invented laws used for demonstrations, learning, and experimentation
 02) Real legal documents: Structured versions of actual legislative or regulatory texts encoded in Akoma Ntoso or LexML
-3) 03) Multiple formats: Mainly Akoma Ntoso XML, but may also include other related standards such as LexML, LegalRuleML, or basic XML for structured data projects
+03) Multiple formats: Mainly Akoma Ntoso XML, but may also include other related standards such as LexML, LegalRuleML, or basic XML for structured data projects
   
 [Hey, oooh. It feels so legal] **What's Akoman Ntoso?**
 
