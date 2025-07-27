@@ -1,0 +1,148 @@
+<akomaNtoso xmlns="http://www.akomantoso.org/2.0">
+
+  <act name="DigitalRightsProtectionAct">
+    <meta>
+      <identification source="#parliament">
+        <FRBRWork>
+          <FRBRthis value="/eu/act/digital-rights/2025/07/27"/>
+          <FRBRuri value="/eu/act/digital-rights"/>
+          <FRBRdate date="2025-07-27" name="generation"/>
+          <FRBRauthor href="#parliament"/>
+          <FRBRcountry value="eu"/>
+        </FRBRWork>
+      </identification>
+
+      <publication date="2025-07-27" name="official-journal-eu"/>
+
+      <!-- Reference to an amended law -->
+      <references source="#act">
+        <TLCReference href="/eu/act/data-protection/2018/05/25" showAs="Data Protection Directive (2018)"/>
+      </references>
+
+      <!-- Language and expression -->
+      <language language="en"/>
+    </meta>
+
+    <preface>
+      <recital>
+        <p>Whereas the digital rights of citizens require further protection beyond the existing Data Protection Directive of 2018;</p>
+      </recital>
+      <recital>
+        <p>Whereas technological advancements have introduced new risks to personal privacy and data security;</p>
+      </recital>
+      <p>This Act may be cited as the “Digital Rights Protection Act”.</p>
+    </preface>
+
+    <body>
+      <!-- CHAPTER 1 -->
+      <chapter eId="ch1">
+        <num>Chapter I</num>
+        <heading>General Provisions</heading>
+
+        <section eId="sec1">
+          <num>Section 1</num>
+          <heading>Purpose</heading>
+          <article eId="art1">
+            <num>Article 1</num>
+            <content>
+              <p>The purpose of this Act is to safeguard the digital rights and personal data of individuals within the European Union.</p>
+            </content>
+          </article>
+        </section>
+
+        <section eId="sec2">
+          <num>Section 2</num>
+          <heading>Definitions</heading>
+          <article eId="art2">
+            <num>Article 2</num>
+            <content>
+              <p>“Digital Rights” shall refer to the rights related to privacy, data ownership, and control over personal digital information.</p>
+              <p>“Controller” means any natural or legal person that determines the purposes and means of the processing of personal data.</p>
+            </content>
+          </article>
+        </section>
+      </chapter>
+
+      <!-- CHAPTER 2 -->
+      <chapter eId="ch2">
+        <num>Chapter II</num>
+        <heading>Rights and Obligations</heading>
+
+        <section eId="sec3">
+          <num>Section 3</num>
+          <heading>Right to Digital Erasure</heading>
+          <article eId="art3">
+            <num>Article 3</num>
+            <content>
+              <p>Every individual shall have the right to request the erasure of their personal data from digital platforms and services, without undue delay.</p>
+            </content>
+          </article>
+        </section>
+
+        <section eId="sec4">
+          <num>Section 4</num>
+          <heading>Obligations of Data Controllers</heading>
+          <article eId="art4">
+            <num>Article 4</num>
+            <content>
+              <p>Data controllers shall ensure compliance with digital erasure requests within 15 business days, unless a legal obligation prevents such erasure.</p>
+            </content>
+          </article>
+        </section>
+      </chapter>
+
+      <!-- CHAPTER 3: AMENDMENTS -->
+      <chapter eId="ch3">
+        <num>Chapter III</num>
+        <heading>Amendments</heading>
+
+        <section eId="sec5">
+          <num>Section 5</num>
+          <heading>Amendment to Data Protection Directive (2018)</heading>
+          <article eId="art5">
+            <num>Article 5</num>
+            <content>
+              <p>Article 7 of the Data Protection Directive (2018) is amended as follows:</p>
+              <paragraph>
+                <num>1.</num>
+                <p>After paragraph 3, the following paragraph shall be inserted:</p>
+                <quotedText>
+                  <p>“4. Data subjects shall have the right to be digitally forgotten across all affiliated systems of the controller.”</p>
+                </quotedText>
+              </paragraph>
+            </content>
+          </article>
+        </section>
+      </chapter>
+
+      <!-- CHAPTER 4: FINAL PROVISIONS -->
+      <chapter eId="ch4">
+        <num>Chapter IV</num>
+        <heading>Final Provisions</heading>
+
+        <section eId="sec6">
+          <num>Section 6</num>
+          <heading>Entry into Force</heading>
+          <article eId="art6">
+            <num>Article 6</num>
+            <content>
+              <p>This Act shall enter into force on 1 January 2026.</p>
+            </content>
+          </article>
+        </section>
+
+        <section eId="sec7">
+          <num>Section 7</num>
+          <heading>Implementation by Member States</heading>
+          <article eId="art7">
+            <num>Article 7</num>
+            <content>
+              <p>Member States shall adopt and publish the laws, regulations, and administrative provisions necessary to comply with this Directive by 30 June 2026.</p>
+            </content>
+          </article>
+        </section>
+      </chapter>
+    </body>
+
+  </act>
+</akomaNtoso>
